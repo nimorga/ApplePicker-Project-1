@@ -1,5 +1,3 @@
  ```
-
 git commit -m "message"
-
 ```
